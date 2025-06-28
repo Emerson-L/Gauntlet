@@ -1,5 +1,5 @@
 # Gauntlet
-A Titanfall-inspired 3D platformer that I made during COVID.
+A Titanfall-inspired 3D platformer that I made during COVID, featuring a grappling hook and many other questionable movement mechanics.
 
 ## Demo
 
